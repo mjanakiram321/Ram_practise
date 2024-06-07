@@ -2,9 +2,9 @@
 # California Housing Price Prediction
 
 Overview :- 
+
 This project involves predicting California housing prices using two different regression techniques: 
-i) Simple Linear Regression and 
-ii) Multiple Linear Regression. 
+i) Simple Linear Regression and ii) Multiple Linear Regression. 
 Each approach involves distinct steps in the machine learning process, detailed below.
 
 
