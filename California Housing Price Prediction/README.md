@@ -2,9 +2,9 @@
 # California Housing Price Prediction
 
 Overview :- 
+
 This project involves predicting California housing prices using two different regression techniques: 
-i) Simple Linear Regression and 
-ii) Multiple Linear Regression. 
+i) Simple Linear Regression and ii) Multiple Linear Regression. 
 Each approach involves distinct steps in the machine learning process, detailed below.
 
 
@@ -31,17 +31,15 @@ Evaluate Performance: Calculate performance metrics such as Mean Squared Error (
 Plot the Regression Line: Visualize the relationship between the predictor and the target variable along with the regression line.
 Multiple Linear Regression
 
+Multiple Linear Regression: - 
 1. Data Collection and Exploration
 Load the Data: Import the dataset with housing prices and multiple features.
 Explore the Data: Conduct exploratory data analysis to understand relationships and distributions.
 
 2. Data Preprocessing
 a) Handle Missing Values: Address missing data through appropriate techniques.
-
 b)Feature Selection: Select multiple predictor variables based on correlation and domain knowledge.
-
 c)Feature Engineering: Create new features if necessary to improve model performance.
-
 d)Encode Categorical Variables: Convert categorical variables into a numerical format.
 
 3. Model Building
